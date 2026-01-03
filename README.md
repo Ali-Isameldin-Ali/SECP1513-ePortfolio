@@ -23,7 +23,14 @@
 ---
 
 ## 2. PC Assembly (Lab)
-**Assignment Output:** [View PC Assembly Lab Work](PCAssembly.jpg) *(Make sure to upload your photo/video and name it exactly this)*
+**Activity:** Hands-on training with PC Hardware Components
+
+### Evidence of Work
+<p float="left">
+  <img src="PC1.jpg" width="250" />
+  <img src="PC2.jpg" width="250" /> 
+  <img src="PC3.jpg" width="250" />
+</p>
 
 ### Reflection
 *   **What I gained:**  
