@@ -2,26 +2,28 @@
 
 **Name:** Ali Isameldin Ali Abdelrehman  
 **Metric ID:** A23CS3001  
-**Section:** 07
+**Section:** 07  
 **Lecturer:** Dr. SHAFAATUNNUR BINTI HASAN  
 
 ---
 
 ## 1. Industry Talk & Visit
-**Assignment Output:** [Link to Industry Talk Report] *(You will update this link later)*
+**Title:** Project Management and System Development  
+**Speaker:** Ts. Hj. Abdul Alim Bin Abdul Muttalib (Serunai Commerce Sdn Bhd)  
+**Assignment Output:** [View Assignment 3 Report](Assignment3_IndustryTalk.pdf)
 
 ### Reflection
 *   **What I gained:**  
-    During the Industry Talk and Visit, I gained valuable insights into the current trends shaping the IT landscape, specifically regarding Industrial Revolution 4.0 and the expectations for fresh graduates. It bridged the gap between the theoretical concepts we learn in class and their practical applications in a professional environment.
+    I learned about the critical role of project management in system development. The speaker, Ts. Hj. Abdul Alim, emphasized that technical coding skills alone are not enough; understanding the entire system development lifecycle and having the ability to plan projects is essential to avoid failure in the industry.
 *   **Suggested Improvement:**  
-    I suggest that future sessions could include a short technical demonstration or a "day in the life" segment to give students a clearer picture of the daily workflow in the industry.
+    I suggest that future sessions could include a workshop on specific project management tools (like Jira or Trello) to give us practical experience alongside the theoretical advice.
 *   **My Opinion:**  
-    I believe these industry exposures are crucial for early-stage students to set realistic career goals and understand the soft skills required alongside technical expertise.
+    I was inspired to concentrate on honing both hard and soft skills over the next four years. I intend to improve my programming and problem-solving skills through ongoing practice and project-based learning. To get ready for a lucrative career in computer science, I will also work on honing my communication and teamwork abilities.
 
 ---
 
 ## 2. PC Assembly (Lab)
-**Assignment Output:** [Link to PC Assembly Video/Photos] *(You will update this link later)*
+**Assignment Output:** [View PC Assembly Lab Work](PCAssembly.jpg) *(Make sure to upload your photo/video and name it exactly this)*
 
 ### Reflection
 *   **What I gained:**  
@@ -34,7 +36,7 @@
 ---
 
 ## 3. Design Thinking (Low Fidelity Prototype)
-**Assignment Output:** [Link to Prototype Slides] *(You will update this link later)*
+**Assignment Output:** [View Design Thinking Project](DesignThinking.pdf) *(Make sure to upload your slides and name them exactly this)*
 
 ### Reflection
 *   **What I gained:**  
