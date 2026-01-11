@@ -2,27 +2,36 @@
 
 **Name:** Ali Isameldin Ali Abdelrehman  
 **Metric ID:** A23CS3001  
-**Section:** 07  
+**Section:** 08
 **Lecturer:** Dr. SHAFAATUNNUR BINTI HASAN  
 
 ---
 
-## 1. Industry Talk & Visit
-**Title:** Project Management and System Development  
-**Speaker:** Ts. Hj. Abdul Alim Bin Abdul Muttalib (Serunai Commerce Sdn Bhd)  
-**Assignment Output:** [View Assignment 3 Report](Assignment3_IndustryTalk.pdf)
+## 1. Industry Talks & Visits
 
-### Reflection
+### Assignment 1: UTM Digital Open Day (Video Blog)
+**Group:** Group 6  
+**Description:** A video blog exploring the UTM Digital Open Day, featuring booths like Microsoft Copilot and interviews with industry professionals.
+**Evidence:**  
+[🎥 **Click Here to Watch Our Video Log**](https://youtu.be/PdJnLjKOYQI?si=_LjHlmH_vFz2OCQv)
+
+### Assignment 2: Data Analytics & Infrastructure (PPG)
+**Topic:** Insights from PPG Malaysia Technology Center  
+**Output:** [View Assignment 2 Poster](Assignment2_Poster.jpg)
+
+### Assignment 3: Project Management (Serunai Commerce)
+**Topic:** System Development & Project Management  
+**Output:** [View Assignment 3 Report](Assignment3_Report.pdf)
+
+### Reflection on Industry Exposures
 *   **What I gained:**  
-    I learned about the critical role of project management in system development. The speaker, Ts. Hj. Abdul Alim, emphasized that technical coding skills alone are not enough; understanding the entire system development lifecycle and having the ability to plan projects is essential to avoid failure in the industry.
-*   **Suggested Improvement:**  
-    I suggest that future sessions could include a workshop on specific project management tools (like Jira or Trello) to give us practical experience alongside the theoretical advice.
+    I gained a comprehensive view of the IT industry. **Assignment 1** showed me the latest consumer technologies (like Copilot). **Assignment 2** (PPG) highlighted the scale of global infrastructure (SAP). **Assignment 3** (Serunai) emphasized that soft skills and project management are just as critical as coding.
 *   **My Opinion:**  
-    I was inspired to concentrate on honing both hard and soft skills over the next four years. I intend to improve my programming and problem-solving skills through ongoing practice and project-based learning. To get ready for a lucrative career in computer science, I will also work on honing my communication and teamwork abilities.
+    These exposures bridged the gap between academic theory and industrial reality.
 
 ---
 
-## 2. PC Assembly (Lab)
+## 2. Lab Activity: PC Assembly (Assignment 2)
 **Activity:** Hands-on training with PC Hardware Components
 
 ### Evidence of Work
@@ -34,21 +43,19 @@
 
 ### Reflection
 *   **What I gained:**  
-    This lab provided hands-on experience in identifying and assembling key computer components, including the CPU, motherboard, RAM, and power supply unit. I learned the importance of safety precautions, such as grounding to prevent electrostatic discharge (ESD), and how hardware architecture influences system performance.
-*   **Suggested Improvement:**  
-    It would be beneficial to have access to more modern hardware components during the lab to reflect the current specifications used in high-performance computing today.
-*   **My Opinion:**  
-    As a software engineering student, I think understanding the physical hardware limitations and architecture is essential for writing efficient and optimized code.
+    This lab provided hands-on experience in assembling key components like the CPU, motherboard, and RAM. I learned the importance of safety precautions (grounding) and how hardware architecture influences system performance.
 
 ---
 
-## 3. Design Thinking (Low Fidelity Prototype)
-**Assignment Output:** [View Design Thinking Project](DesignThinking.pdf) *(Make sure to upload your slides and name them exactly this)*
+## 3. Assignment 4: Design Thinking Project
+**Project Title:** SpaceSync: Real-Time Campus Study Spot & Facility Manage
+**Group:** Group 6
+**Status:** 🚧 *In Progress (Final Report Coming Soon)*
 
-### Reflection
-*   **What I gained:**  
-    The Design Thinking project taught me the five-stage process: Empathize, Define, Ideate, Prototype, and Test. Creating a low-fidelity prototype allowed our team to visualize our solution quickly and identify flaws early without spending time on expensive coding or development.
-*   **Suggested Improvement:**  
-    I feel that the "Testing" phase could be extended to allow for a second iteration of the prototype based on user feedback.
-*   **My Opinion:**  
-    This assignment shifted my mindset from "solution-first" to "user-first." I realized that technical complexity doesn't matter if the product doesn't solve a real user problem.
+### Project Overview
+We are designing a solution called **SpaceSync** to help students locate available study spots and facilities on campus in real-time.
+
+### Reflection (Preliminary)
+*   **My Role:** Introduction, Problem Statement, Solution, and Team Working analysis.
+*   **Current Progress:**  
+    We are currently in the "Empathize" and "Define" phases. We have identified that students waste significant time physically searching for empty rooms, and we are designing a prototype to solve this.
