@@ -13,7 +13,7 @@
 **Group:** Group 6  
 **Description:** A video blog exploring the UTM Digital Open Day, featuring booths like Microsoft Copilot and interviews with industry professionals.
 **Evidence:**  
-[🎥 **Click Here to Watch Our Video Log**]([https://youtu.be/PdJnLjKOYQI?si=hitK5PwhrlJQrfpC]
+[🎥 **Click Here to Watch Our Video Log**](https://youtu.be/PdJnLjKOYQI?si=hitK5PwhrlJQrfpC)
 
 ### Assignment 2: Data Analytics & Infrastructure (PPG)
 **Topic:** Insights from PPG Malaysia Technology Center  
@@ -55,7 +55,7 @@
 ### Project Overview
 **SpaceSync** is a digital campus system designed to help students find available study spots in real-time. By using IoT sensor concepts and a user-friendly app interface, it aims to reduce the anxiety and wasted time students face when looking for empty tables in the library or labs.
 
-**Output:** [View Final Project Report](SECP1513_%20Technology%20and%20Information%20Project%20.pdf)
+**Output:** [View Final Project Report](Project_Report.pdf)
 
 ### Reflection
 *   **My Role:**
