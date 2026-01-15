@@ -13,7 +13,7 @@
 **Group:** Group 6  
 **Description:** A video blog exploring the UTM Digital Open Day, featuring booths like Microsoft Copilot and interviews with industry professionals.
 **Evidence:**  
-[🎥 **Click Here to Watch Our Video Log**](https://youtu.be/PdJnLjKOYQI?si=_LjHlmH_vFz2OCQv)
+[🎥 **Click Here to Watch Our Video Log**]([https://youtu.be/PdJnLjKOYQI?si=hitK5PwhrlJQrfpC]
 
 ### Assignment 2: Data Analytics & Infrastructure (PPG)
 **Topic:** Insights from PPG Malaysia Technology Center  
@@ -31,7 +31,7 @@
 
 ---
 
-## 2. Lab Activity: PC Assembly (Assignment 2)
+## 2. Lab Activity: PC Assembly
 **Activity:** Hands-on training with PC Hardware Components
 
 ### Evidence of Work
@@ -47,15 +47,20 @@
 
 ---
 
-## 3. Assignment 4: Design Thinking Project
-**Project Title:** SpaceSync: Real-Time Campus Study Spot & Facility Manage
+## 3. Design Thinking Project (SpaceSync)
+**Project Title:** SpaceSync: Real-Time Campus Study Spot & Facility Manager
 **Group:** Group 6
-**Status:** 🚧 *In Progress (Final Report Coming Soon)*
+**Status:** ✅ Completed
 
 ### Project Overview
-We are designing a solution called **SpaceSync** to help students locate available study spots and facilities on campus in real-time.
+**SpaceSync** is a digital campus system designed to help students find available study spots in real-time. By using IoT sensor concepts and a user-friendly app interface, it aims to reduce the anxiety and wasted time students face when looking for empty tables in the library or labs.
 
-### Reflection (Preliminary)
-*   **My Role:** Introduction, Problem Statement, Solution, and Team Working analysis.
-*   **Current Progress:**  
-    We are currently in the "Empathize" and "Define" phases. We have identified that students waste significant time physically searching for empty rooms, and we are designing a prototype to solve this.
+**Output:** [View Final Project Report](SECP1513_%20Technology%20and%20Information%20Project%20.pdf)
+
+### Reflection
+*   **My Role:**
+    As the team leader, I coordinated the project workflow, ensuring alignment between sections (Empathy, Define, Ideate, Prototype, Test). I was specifically responsible for the Introduction, Problem Statement, and Solution analysis.
+*   **What I gained:**
+    Through the SpaceSync project, I learned how Design Thinking transforms abstract problems into user-centered solutions by focusing on empathy, clarity, and practicality. Leading the team strengthened my communication and decision-making skills.
+*   **My Opinion:**
+    This project reinforced my interest in smart system design. It showed me that technical solutions (like sensors) are useless without understanding the human need (reducing anxiety and saving time).
