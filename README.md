@@ -17,7 +17,7 @@
 
 ### Assignment 2: Data Analytics & Infrastructure (PPG)
 **Topic:** Insights from PPG Malaysia Technology Center  
-**Output:** [View Assignment 2 Poster](Assignment2_Poster.jpg)
+**Output:** [View Assignment 2 Poster](Assignment2_Poster.pdf)
 
 ### Assignment 3: Project Management (Serunai Commerce)
 **Topic:** System Development & Project Management  
