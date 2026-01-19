@@ -50,7 +50,7 @@
 ## 3. Design Thinking Project (SpaceSync)
 **Project Title:** SpaceSync: Real-Time Campus Study Spot & Facility Manager
 **Group:** Group 6
-**Status:** ✅ Completed
+
 
 ### Project Overview
 **SpaceSync** is a digital campus system designed to help students find available study spots in real-time. By using IoT sensor concepts and a user-friendly app interface, it aims to reduce the anxiety and wasted time students face when looking for empty tables in the library or labs.
@@ -69,7 +69,7 @@
 
 ## 4. Assignment 4: Industry Talk Posters
 **Task:** Overview of ICT Jobs in Industry (Webinar Posters)
-**Status:** ✅ Completed
+
 
 ### Project Output
 **[View Assignment 4 Posters (Clarity Techworks & AirAsia)](Assignment4_Posters.pdf)**
