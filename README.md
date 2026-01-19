@@ -13,11 +13,11 @@
 **Group:** Group 6  
 **Description:** A video blog exploring the UTM Digital Open Day, featuring booths like Microsoft Copilot and interviews with industry professionals.
 **Evidence:**  
-[🎥 **Click Here to Watch Our Video Log**](https://youtu.be/PdJnLjKOYQI?si=hitK5PwhrlJQrfpC)
+[🎥 **Click Here to Watch Our Video Log**](https://youtu.be/PdJnLjKOYQI?si=_wgtZqNzqPhcvDzD)
 
 ### Assignment 2: Data Analytics & Infrastructure (PPG)
 **Topic:** Insights from PPG Malaysia Technology Center  
-**Output:** [View Assignment 2 Poster](Assignment2_Poster.pdf)
+**Output:** [View Assignment 2 Poster](Assignment2_Poster.jpg)
 
 ### Assignment 3: Project Management (Serunai Commerce)
 **Topic:** System Development & Project Management  
@@ -55,7 +55,7 @@
 ### Project Overview
 **SpaceSync** is a digital campus system designed to help students find available study spots in real-time. By using IoT sensor concepts and a user-friendly app interface, it aims to reduce the anxiety and wasted time students face when looking for empty tables in the library or labs.
 
-**Output:** [View Final Project Report](Project_Report.pdf)
+**Output:** [View Final Project Report](Project_Report_TIS.pdf)
 
 ### Reflection
 *   **My Role:**
@@ -64,3 +64,18 @@
     Through the SpaceSync project, I learned how Design Thinking transforms abstract problems into user-centered solutions by focusing on empathy, clarity, and practicality. Leading the team strengthened my communication and decision-making skills.
 *   **My Opinion:**
     This project reinforced my interest in smart system design. It showed me that technical solutions (like sensors) are useless without understanding the human need (reducing anxiety and saving time).
+
+---
+
+## 4. Assignment 4: Industry Talk Posters
+**Task:** Overview of ICT Jobs in Industry (Webinar Posters)
+**Status:** ✅ Completed
+
+### Project Output
+**[View Assignment 4 Posters (Clarity Techworks & AirAsia)](Assignment4_Posters.pdf)**
+
+### Reflection
+*   **Clarity Techworks:**
+    The session gave us a realistic view of the Fintech industry. I was particularly inspired by their advice to "start small" by publishing personal projects to GitHub. It reminded me that adaptability and self-learning are essential traits for a developer.
+*   **AirAsia:**
+    I learned about AirAsia's "No Sir" culture, which breaks down communication barriers and fosters innovation. Their strict adherence to Agile methodologies (like daily standups) showed me that coding is a disciplined team effort, not just individual work.
