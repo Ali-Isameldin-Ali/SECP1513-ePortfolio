@@ -11,7 +11,7 @@
 
 ### Assignment 1: UTM Digital Open Day (Video Blog)
 **Group:** Group 6  
-**Description:** A video blog exploring the UTM Digital Open Day, featuring booths like Microsoft Copilot and interviews with industry professionals.
+**Description:** A video Vlog exploring the UTM Digital Open Day, featuring booths like Microsoft Copilot and interviews with industry professionals.
 **Evidence:**  
 [🎥 **Click Here to Watch Our Video Log**](https://youtu.be/PdJnLjKOYQI?si=_wgtZqNzqPhcvDzD)
 
